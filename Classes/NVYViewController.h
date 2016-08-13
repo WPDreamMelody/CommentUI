@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface NVYViewController : NVViewController
+@interface NVYViewController : UIViewController
 @property(strong)NSString *name;
 @end

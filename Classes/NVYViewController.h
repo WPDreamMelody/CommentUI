@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface NVYViewController : UIViewController
-@property(strong)NSString *name;
+@property(strong)NSString *names;
 @end
